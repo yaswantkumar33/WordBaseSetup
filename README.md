@@ -131,3 +131,20 @@ If you have plugins or themes installed, they may create their own tables. These
 - **Content Management**: The structure helps you understand where your posts, pages, and custom content types are stored.
 - **Customizations**: If you're developing or troubleshooting a plugin/theme, you’ll know where data is saved and retrieved from.
 - **Database Optimization**: Understanding the database allows you to optimize queries or clean up unnecessary data (like post revisions or spam comments).
+
+
+
+
+
+
+1. What is a "Post" in WordPress?
+A post in WordPress is a piece of content that you create, usually for a blog. It can be a blog article, news update, or any regular content that updates frequently. Posts are usually organized by date and can be categorized or tagged.
+
+Example: Imagine writing a blog post titled "Top 10 Travel Destinations in 2024." That article (its title, content, and any attached images) is considered a post in WordPress.
+2. What is "Metadata"?
+Metadata is "data about data." It’s additional information that describes or gives more details about a post, user, or any other item in your WordPress site. Metadata is not the main content itself, but it provides more context or functionality.
+
+Example in Posts:
+A post’s metadata can include the author's name, the date it was published, custom fields, categories, tags, or even SEO settings.
+Real-life analogy: Think of a book (the post) and the information on the book cover (the metadata) like the title, author’s name, genre, and publication date. This extra info (metadata) helps you better understand or organize the book.
+
